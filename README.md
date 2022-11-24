@@ -3,3 +3,10 @@ A mini IMDB clone app in which we can search movies based on OMDB API, with sear
 
 ## Hosted Link :- 
 https://sonu825313.github.io/IMDB-CLONE/
+
+![Movie-Mania (1)](https://user-images.githubusercontent.com/106314383/203757445-50b127a5-e905-41e3-b924-c7e1861e3b79.png)
+
+![Movie-Mania (2)](https://user-images.githubusercontent.com/106314383/203757662-ca0884e6-8567-491f-b6ec-90af43bf6beb.png)
+
+![Omdb-Favourites](https://user-images.githubusercontent.com/106314383/203757795-b71956fb-0965-4679-b2ce-07b03b73876b.png)
+
